@@ -27,6 +27,7 @@ export default function Home({ allPostsData }) {
           tutorial 따라가며 작성한 노션 페이지 링크입니다{' '}
           <a href="https://wholesale-balmoral-423.notion.site/tutorial-3fcd4cb5baa9428b97189f85ca56e614">(유진의 왕초보 노션</a>)
         </p>
+        <p>밑의 블로그는 tutorial 샘플입니다 수요일까지 응용해서 todolist 만드는 식으로 공부해볼게요!!</p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>blog</h2>
