@@ -25,7 +25,7 @@ export default function Home({ allPostsData }) {
         <p>저는 나유진입니다. next.js 정말루 어려워용 ㅎㅎ</p>
         <p>
           tutorial 따라가며 작성한 노션 페이지 링크입니다{' '}
-          <a href="https://www.notion.so/tutorial-3fcd4cb5baa9428b97189f85ca56e614">(유진의 왕초보 노션</a>.)
+          <a href="https://www.notion.so/tutorial-3fcd4cb5baa9428b97189f85ca56e614">(유진의 왕초보 노션</a>)
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
